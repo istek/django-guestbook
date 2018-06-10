@@ -1,0 +1,4 @@
+v0.1
+1. 首次提交代码
+2. 这是我真正意义上第一个用django开发出来的成品吧，使用了bootstrap4。
+3. 还使用了widget_tweaks包，因为要给field增加class。
